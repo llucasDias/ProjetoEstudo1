@@ -1,0 +1,12 @@
+# database
+db/*.db
+
+# dependencias
+node_modules
+
+#environment
+.env
+.env.test
+
+#nuild
+dist
